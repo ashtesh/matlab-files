@@ -1,0 +1,28 @@
+The monopropellant hydrogen peroxide has been proposed as such a
+power source in the past by two prominent research groups [ ]. Hydrogen Peroxide (H2O2) and
+its mixtures with water decompose rapidly in contact with catalytic materials such as manganese
+dioxide (MnO2), silver, and platinum. H2O2 was injected on a silver catalyst bed through two
+proportional servo-controlled valves [2] attached to the ends of a double-acting cylinder, thus
+driving the piston. Another version of the design [3] utilized an on-o solenoid valve to achieve
+similar results. In both cases, the controller model is based on a simple system-based approach
+without considering reaction kinetics, and with the addition of Lyapunov control stability for the
+system involving the proportional valves. A H2 O2 - based free-piston hydraulic pump [4] was
+also developed for pumping oil to drive actuators for exoskeletons. The system was modelled in a
+semi-empirical fashion by considering a simple model, where the semi-empirical constants were
+dependent on the concentration of H2 O2 , and needed to be re-determined in case of any change in
+the concentration. In the current work, a hot gas generator has been constructed, which is capable
+of generating a given pressure profile by modulating the pulsed flow of the monopropellant in the
+combustion chamber. Due to the ease of handling, 50% H2 O2 has been utilized as a fuel, and
+manganese dioxide has been utilized as the catalyst. Commercially available glow plugs heated up
+the catalyst bed before injecting the diluted H2O2 through an on-o solenoid valve. The pressure
+traces acquired during the process show that the system reaches a steady state during the course of
+
+Monopropellant thrusters are widely used for the altitude and
+attitude control of spaceflight objects such as satellites and launch
+vehicles. Therefore, research has been conducted on various monopropellants such as H2O2, hydrazine, and hydroxylammonium nitrate (HAN) for such thrusters. Among these monopropellants,
+H2O2 was used as an oxidizer component of bipropellants and as
+a monopropellant since the early days of rocket development because of its storable characteristic. However, after the discovery of
+high-performance hydrazine, H2O2 was retired as a liquid propellant. Nevertheless, tightened environmental regulations led to an
+increase in the handling cost of hydrazine, because of which H2O2
+began being reevaluated as a monopropellant in the mid-1990s
+

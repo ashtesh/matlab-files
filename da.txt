@@ -1,0 +1,72 @@
+Figure. 1 shows the schematic of the experimental setup
+to investigate the behavior of decomposition and combustion
+of 50% H
+2
+O
+2
+in an open chamber. The fuel is stored in a
+tank which is pressurized to 10 bar gauge using a nitrogen
+cylinder. A solenoid valve (S1) is used to control inlet
+flow of the fuel mixture into the chamber through a full
+cone spray injector. This injector provides for a uniform
+distribution of fuel mixture on the catalyst bed made up
+of MnO
+2
+particles (mean diameter: 3mm). The thickness of
+the catalyst bed is approximately 35 mm. Two glowplugs
+are provided to maintain a high temperature (600-700K)
+within the catalyst bed. Another glowplug is located before
+the the catalyst bed to heat up the gases. These glowplugs
+are powered by 12V DC power supply. Two pressure transducers (model ADZ SML10.0) P
+c
+and P
+e
+are mounted on
+the combustion chamber, and exhaust line, respectively, to
+monitor the variation of pressures with time. These pressure
+transducers are powered by a 24V DC power supply, and
+Fig. 1: Schematic of experimental setup
+Fig. 2: Photo of experimental setup (fuel tank and combustion
+chamber)
+filled with a silicon based oil to prevent the direct contact
+of high temperature gases with the piezo-electric sensors.
+Data is acquired through a Labjack H3-UV data acquisition
+system at the rate of 1000 Hz. Two uni-directional valves,
+V1 and V2, are used for safety purposes. Figure. 2 shows a
+photographic representation of the experimental setup.
+Prior to the first injection, the glowplugs are powered on
+for 3 minutes to heat the catalyst bed and internal environment of chamber to a uniform temperature. The power to
+the glow plugs is switched at 1/60 Hz with 50% on time at
+this stage. This switching allows the entire bed to achieve
+a uniform initial temperature. While the decomposition of
+H
+2
+O
+2
+may proceed without the glowplugs within the catalyst
+bed [6], it is strongly temperature-dependent, and the decomposition rate increases with temperature. Thus, the glowplugs
+within the catalyst bed ensure a rapid decomposition of
+H
+2
+O
+2
+. After the first injection, the glow plugs are kept on
+continuously.
+Upon injection, the fuel mixture impinges on a heated
+catalyst bed. When H
+2
+O
+2
+comes in contact with the MnO
+2
+particles, it decomposes into steam and reactive oxygen [6].
+In the present setup, these hot gases are allowed to exhaust
+through an orifice plate to the atmosphere. Kindly note
+that the present work focuses only on modeling of the
+decomposition of 50% H
+2
+O
+2
+over the MnO
+2
+bed.
